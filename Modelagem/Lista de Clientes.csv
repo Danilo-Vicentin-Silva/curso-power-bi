@@ -1,0 +1,26 @@
+ID cliente,Segmento,País,Cidade,Tipo de cliente
+goca-14,Empresa,CAN-Canadá,Ottawa,Básico
+goal-16,Pequenos Negócios,BRA-Brasil,Belo Horizonte,Novo
+mefr-20,Mercado medio,USA-Estados Unidos da América,Miami,Gold
+meal-21,Governo,MEX-México,Cidade do México,Básico
+memé-19,Governo,EUA-Estados Unidos da América,Nova Iorque,Premium
+soca-21,Parceiros de canal,EUA-Estados Unidos da América,Seattle,Gold
+gofr-15,Mercado médio,CAN-Canadá,Quebec,Novo
+soal-23,Empresa,FRA-França,Niza,Básico
+emca-13,Empresa,EUA-Estados Unidos da América,Los Angeles,Novo
+pemé-23,Pequenos Negócios,CAN-Canadá,Vancouver,Premium
+mees-38,Pequenos Negócios,FRA-França,Marselha,Gold
+gomé-14,Empresa,ALE-Alemanha,Berlím,Básico
+goes-33,Parceiros de canal,FRA-França,Paris,Gold
+soes-40,Pequenos Negócios,BRA-Brasil,São Paulo,Premium
+meca-19,Empresa,MEX-México,Cidade do México,Novo
+emfr-14,Pequenos Negócios,ALE-Alemanha,Munique,Básico
+emes-32,Parceiros de canal,MEX-México,Monterrey,Premium
+peca-23,Empresa,CAN-Canadá,Ottawa,Novo
+pefr-24,Empresa,BRA-Brasil,Belo Horizonte,Gold
+emal-15,Pequenos Negócios,USA-Estados Unidos da América,Miami,Básico
+sofr-22,Pequenos Negócios,MEX-México,Cidade do México,Premium
+pees-42,Empresa,EUA-Estados Unidos da América,Nova Iorque,Gold
+emmé-13,Empresa,EUA-Estados Unidos da América,Seattle,Novo
+peal-25,Pequenos Negócios,BRA-Brasil,São Paulo,Básico
+somé-21,Parceiros de canal,MEX-México,Cidade do México,Premium
